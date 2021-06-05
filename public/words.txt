@@ -1,0 +1,97 @@
+Sign Language
+Yes
+No
+Maybe
+Please
+Thank You
+Are You Okay
+Hearing
+Deaf
+Good
+Bad
+Better
+Worse
+Brilliant
+Terrible
+Happy
+Sad
+Excited
+Angry
+Mother
+Father
+Son
+Daughter
+Brother
+Sister
+Family
+Baby
+Boy
+Girl
+Like
+Don’t Like
+Love
+Hate
+Understand
+Don’t Understand
+Help
+Okay
+Home
+Work
+Office
+School
+College
+University
+Learn
+Red
+Blue
+Green
+Brown
+Yellow
+Orange
+Purple
+Pink
+White
+Black
+Gold
+Silver
+Day
+Night
+Morning
+Evening
+Future
+Past
+Now
+Tomorrow
+Yesterday
+Week
+Weekend
+Car
+Drive
+Bicycle
+Bus
+Train
+Walk
+Run
+Shop
+Cheap
+Expensive
+Coffee
+Tea
+Hot Chocolate
+Sugar
+Milk
+Water
+Sweet
+Cake
+Biscuit
+Who
+Which
+When
+Where
+Why
+How
+How Many
+Easy
+Hard
+British Sign Language
+Goodbye
