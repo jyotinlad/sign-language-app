@@ -92,6 +92,7 @@ Where
 Why
 How
 How Many
+How Long
 Easy
 Hard
 Goodbye
@@ -127,3 +128,37 @@ Busy (Crowded)
 Fast
 Slow
 Confused
+Adult
+Child
+Aeroplane
+America
+All Gone
+Ask
+Apple
+Awake
+All
+Big
+Beautiful
+Bird
+Ball
+Birthday
+Careful
+Carry On
+Chair
+Castle
+Celebrate
+Carrot
+Dinner
+Doctor
+Dream
+Door
+Duck
+Down
+Donkey
+Dirty
+England
+Electric
+Every
+Explain
+Elephant
+What
