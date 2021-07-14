@@ -60,7 +60,7 @@ const Slideshow = () => {
   return (
     <div>
       <div>
-        <Slide easing="ease" autoplay={autoplay}>
+        <Slide easing="ease" autoplay={autoplay} duration={1000}>
           {words.map((word, i) => (
             <div key={i} className="each-slide">
               <div>
