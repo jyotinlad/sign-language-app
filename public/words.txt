@@ -26,8 +26,8 @@ Family
 Baby
 Boy
 Girl
-Like
-Don’t Like
+Like/Want
+Don’t Like/Don't Want
 Love
 Hate
 Understand
@@ -120,8 +120,6 @@ Stress
 Suspicious
 Sleep
 Wake Up
-Want
-Don't Want
 Must
 Busy (Lots To Do)
 Busy (Crowded)
@@ -153,12 +151,11 @@ Doctor
 Dream
 Door
 Duck
-Down
 Donkey
+Elephant
 Dirty
 England
 Electric
 Every
 Explain
-Elephant
 What
