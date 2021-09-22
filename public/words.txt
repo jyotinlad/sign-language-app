@@ -14,7 +14,7 @@ Brilliant
 Terrible
 Happy
 Sad
-Excited
+Excited / That's Interesting
 Angry
 Mother
 Father
@@ -159,3 +159,7 @@ Electric
 Every
 Explain
 What
+Sorry
+Again
+Let Me Know
+Take My Time
